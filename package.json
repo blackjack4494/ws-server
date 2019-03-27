@@ -1,0 +1,22 @@
+{
+  "name": "ws-server",
+  "version": "1.0.0",
+  "description": "Websocket Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackjack4494/ws-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackjack4494/ws-server/issues"
+  },
+  "homepage": "https://github.com/blackjack4494/ws-server#readme",
+  "dependencies": {
+    "ws": "^6.2.1"
+  }
+}
